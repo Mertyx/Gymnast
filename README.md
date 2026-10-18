@@ -1,7 +1,7 @@
 # Gymnast / Ragdoll Bar Swing 2D
 
 * **Autor:** Matěj Strnad
-* **Třída / Ročník: 4ITE/4. ročník
+* **Třída** / Ročník: 4ITE/4. ročník
 * **Školy:** VOŠ, SPŠ a SOŠ Varnsdorf
 * **Rok:** 2026
 * **Licence:** MIT License
