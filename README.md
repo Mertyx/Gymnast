@@ -15,6 +15,6 @@ Krátká 2D ragdoll fyzikální hra postavená v engine Godot. Hráč ovládá s
 
 ## 📂 Rozcestník / Obsah repozitáře
 * [01-ideovy-plan](./01-ideovy-plan/README.md) – Ideový plán projektu (koncept, mechaniky, audiovizuál, hypotézy)
-* `02-src/` – Zdrojové kód hry (Godot projekt) *(chystá se)*
-* `03-assets/` – Grafické a zvukovky podklady *(chystá se)*
-* `04-builds/` – Exportované verze hry *(chystá se)*
+* [02-src](./02-src) – Zdrojový kód hry (Godot projekt) *(chystá se)*
+* [03-assets](./03-assets) – Grafické a zvukové podklady *(chystá se)*
+* [04-builds](./04-builds) – Exportované verze hry *(chystá se)*
